@@ -3,11 +3,11 @@
   <title>gschen</title>
   
   <subtitle>Geosciences</subtitle>
-  <link href="https://github.com/gschen23/atom.xml" rel="self"/>
+  <link href="https://gschen23.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/gschen23/"/>
+  <link href="https://gschen23.github.io/"/>
   <updated>2022-09-02T15:26:42.000Z</updated>
-  <id>https://github.com/gschen23/</id>
+  <id>https://gschen23.github.io/</id>
   
   <author>
     <name>gschen23</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/gschen23/2022/09/02/hello-world/"/>
-    <id>https://github.com/gschen23/2022/09/02/hello-world/</id>
+    <link href="https://gschen23.github.io/2022/09/02/hello-world/"/>
+    <id>https://gschen23.github.io/2022/09/02/hello-world/</id>
     <published>2022-09-02T03:17:14.614Z</published>
     <updated>2022-09-02T15:26:42.000Z</updated>
     
